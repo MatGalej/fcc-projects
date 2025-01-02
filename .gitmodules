@@ -4,3 +4,6 @@
 [submodule "fcc-product-page"]
 	path = fcc-product-page
 	url = https://github.com/MatGalej/fcc-product-page.git
+[submodule "fcc-tribute"]
+	path = fcc-tribute
+	url = https://github.com/MatGalej/fcc-tribute.git
