@@ -7,3 +7,6 @@
 [submodule "fcc-tribute"]
 	path = fcc-tribute
 	url = https://github.com/MatGalej/fcc-tribute.git
+[submodule "Survey-Form"]
+	path = Survey-Form
+	url = https://github.com/MatGalej/Survey-Form.git
