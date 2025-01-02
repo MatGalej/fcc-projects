@@ -1,3 +1,6 @@
 [submodule "fcc-technical-page"]
 	path = fcc-technical-page
 	url = https://github.com/MatGalej/fcc-technical-page.git
+[submodule "fcc-product-page"]
+	path = fcc-product-page
+	url = https://github.com/MatGalej/fcc-product-page.git
